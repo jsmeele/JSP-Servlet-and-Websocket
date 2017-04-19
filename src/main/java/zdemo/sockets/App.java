@@ -3,7 +3,7 @@ package zdemo.sockets;
 import consts.Constants;
 /**
  * 
- * @author a500648
+ * @author jsmeele
  *
  */
 public class App 
