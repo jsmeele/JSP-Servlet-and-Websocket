@@ -14,8 +14,8 @@ import java.util.Properties;
  */
 public class Constants {
     public static final String PROPERTY_FILE = "config.properties";
-    public static final String DEFAULT_WIN_AUTO_FILELOC = "C:\\Users\\user\\Documents\\workspace\\CustomContentClassifier\\DocLocation\\New";
-    public static final String DEFAULT_WIN_MANUAL_FILELOC = "C:\\Users\\user\\Documents\\workspace\\CustomContentClassifier\\DocLocation\\Manual";
+    public static final String DEFAULT_WIN_AUTO_FILELOC = "C:\\Users\\user\\Documents\\workspace\\JSP-Servlet-and-Websocket\\DocLocation\\New";
+    public static final String DEFAULT_WIN_MANUAL_FILELOC = "C:\\Users\\user\\Documents\\workspace\\JSP-Servlet-and-Websocket\\DocLocation\\Manual";
     public static final String DEFAULT_FILE_RECEIVE_PORT = "8000";
     
     public static final Properties PROP = getProperties();
