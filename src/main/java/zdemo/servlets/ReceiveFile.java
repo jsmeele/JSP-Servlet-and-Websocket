@@ -19,6 +19,9 @@ import java.util.List;
 
 
 /**
+ * 
+ * @author jsmeele
+ * 
  * Servlet implementation class HelloServlet
  */
 @WebServlet("/receiveFile")
