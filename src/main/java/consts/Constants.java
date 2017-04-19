@@ -9,7 +9,7 @@ import java.util.Properties;
 
 /**
  * 
- * @author a500648
+ * @author jsmeele
  *
  */
 public class Constants {
