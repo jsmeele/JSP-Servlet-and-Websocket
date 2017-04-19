@@ -11,6 +11,9 @@ import javax.servlet.http.HttpServletResponse;
 
 
 /**
+ *
+ * @author jsmeele
+ *
  * Servlet implementation class HelloServlet
  */
 @WebServlet("/test")
