@@ -19,6 +19,10 @@ import consts.Constants;
 
 
 /**
+ *
+ * @author jsmeele
+ *
+ *
  * Servlet implementation class HelloServlet
  */
 @WebServlet("/uploadFile")
